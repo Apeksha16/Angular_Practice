@@ -1,0 +1,13 @@
+.main{
+    /* padding: 10px; */
+    margin:10px;
+    height: calc(100vh - 84px);
+    overflow-y: auto;
+}
+.m-b-10
+{
+    margin-bottom: 10px;
+}
+.m-r-10{
+    margin-right: 10px;
+}
